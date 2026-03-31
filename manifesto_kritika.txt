@@ -11,7 +11,7 @@
 
   Generating your manifesto...
 
-  [✔] Manifesto saved to: manifesto_daksh.txt
+  [✔] Manifesto saved to: manifesto_kritika.txt
 
 --- Your Manifesto ---
 
