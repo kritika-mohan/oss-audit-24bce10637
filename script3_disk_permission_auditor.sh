@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 3: Disk and Permission Auditor
-# Author: Daksh Maru | Roll: 24BCE11514
+# Author: Kritika Mohan | Roll: 24BCE10637
 # Course: Open Source Software | Software Choice: Git
 # Description: Loops through key system directories and
 #              reports their size, owner, and permissions
