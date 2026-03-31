@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Daksh Maru | Roll: 24BCE11514
+# Author: Kritika Mohan | Roll: 24BCE10637
 # Course: Open Source Software | Software Choice: Git
 # Description: Asks the user 3 questions interactively and
 #              generates a personalised open source manifesto
