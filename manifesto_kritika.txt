@@ -1,5 +1,5 @@
 ==================================================
-       Open Source Manifesto Generator
+       Open Source Manifesto Generater
 ==================================================
 
   Answer three questions to generate your personal
